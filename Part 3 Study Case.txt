@@ -1,0 +1,3 @@
+saya akan mengecek log dari web service yang di gunakan dan jika terdapat error dengan code maka saya akan 
+menurunkan code version dengan gitjika tidak menggunakna git saya akan menyelesaikan error tersebut sebisa
+mungkin jika tidak bisa saya akan meminta bantuan ke rekan kerja yang bersangkutan.
